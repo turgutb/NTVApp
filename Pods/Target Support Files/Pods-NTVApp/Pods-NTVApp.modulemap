@@ -1,0 +1,6 @@
+framework module Pods_NTVApp {
+  umbrella header "Pods-NTVApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
