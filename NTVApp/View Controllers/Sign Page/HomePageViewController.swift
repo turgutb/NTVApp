@@ -1,22 +1,21 @@
 //
-//  ViewController.swift
+//  HomePageViewController.swift
 //  NTVApp
 //
-//  Created by TURGUT on 25.02.2020.
+//  Created by MacBook on 24.12.2020.
 //  Copyright © 2020 Turgut. All rights reserved.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class HomePageViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+
+        
     }
     
 
-  
-    
 
 }
-
